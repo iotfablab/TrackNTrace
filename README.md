@@ -44,4 +44,4 @@ Use the [nimble-platform/tiguitto](https://github.com/nimble-platform/tiguitto) 
 
 ## Work In Progress
 
-Scientific Paper on the complete implementation. 
+Scientific Paper on the complete implementation. (Paper Accepted in Conference)
