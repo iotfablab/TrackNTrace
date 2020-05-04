@@ -19,7 +19,7 @@ Use the [nimble-platform/tiguitto](https://github.com/nimble-platform/tiguitto) 
 
 | Deprecated Repositories                   | Purpose                                                                                                                              |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [EPCIS-IoT-Parser](https://github.com/iotfablab/EPCIS-IoT-Parser)  | ~~Python3.x Parser for parsing incoming MQTT Messages and adding relevant EPC meta-data to IoT Sensor data~~ |
+| [EPCIS-IoT-Parser](https://github.com/iotfablab/EPCIS-IoT-Parser)  | Python3.x Parser for parsing incoming MQTT Messages and adding relevant EPC meta-data to IoT Sensor data |
 | [epcis-iot-backend](https://github.com/shantanoo-desai/epcis-iot-backend) | GraphQL backend for configuring EPCIS Sites and mapping EPCIS and IoT information used by the Parser |
 | [epcis-iot-backend](https://github.com/shantanoo-desai/ng-epcis-iot) | Generic Frontend in Angular to interact with GraphQL endpoint to perform CRUD application for Sites       |
 
