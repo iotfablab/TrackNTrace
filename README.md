@@ -42,6 +42,4 @@ Use the [nimble-platform/tiguitto](https://github.com/nimble-platform/tiguitto) 
 > Desai S., Deng Q., Wellsandt S., Thoben KD. (2019) An Architecture of IoT-Based Product Tracking with Blockchain in Multi-sided B2B Platform. In: Ameri F., Stecke K., von Cieminski G., Kiritsis D. (eds) Advances in Production Management Systems. Production Management for the Factory of the Future. APMS 2019. IFIP Advances in Information and Communication Technology, vol 566. Springer, Cham
 [DOI: 10.1007/978-3-030-30000-5_57](https://doi.org/10.1007/978-3-030-30000-5_57)
 
-## Work In Progress
-
-Scientific Paper on the complete implementation. (Paper Accepted in Conference)
+> S. Desai, Q. Deng, S. Wellsandt and K. -D. Thoben, "An Implementation of IoT-Based Product Tracking with Blockchain Integration for a B2B Platform," 2020 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC), Cardiff, United Kingdom, 2020, pp. 1-8, [DOI: 10.1109/ICE/ITMC49519.2020.9198639](https://ieeexplore.ieee.org/document/9198639)
